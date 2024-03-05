@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A AI Chatbot that gets relevant resources based on chat**
 
-- 🌱 I’m currently learning **React, Django, Mangodb**
+- 🌱 I’m currently learning **React, Django, Mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
