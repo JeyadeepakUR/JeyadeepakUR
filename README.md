@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeyadeepakur" alt="jeyadeepakur" /></a> </p>
 
-- 🔭 I’m currently working on **A AI Chatbot that gets relevant resources based on chat**
+- 🔭 I’m currently working on **Highly classified mission called "project chill😎" which is about mastering the act of doing nothing**
 
 - 🌱 I’m currently learning **React, Django, Mongodb**
 
